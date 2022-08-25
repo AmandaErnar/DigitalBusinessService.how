@@ -4,23 +4,13 @@ Move all not linked pages to the main navigation
 
 ## Design
 
-Do not touch Site Styles unless told otherwise by client
+Browser Icon/Add business logo
 
-Browser Icon
+Checkout Page/Make the page match the current template
 
-- Add business logo
+404 Page/Direct user to Home
 
-Checkout Page
-
-- Make the page match the current template
-
-404 Page
-
-- Direct user to Home
-
-Social Sharing
-
-- Add a picture of Tetons
+Social Sharing/Add a picture of business
 
 ## Commerce
 

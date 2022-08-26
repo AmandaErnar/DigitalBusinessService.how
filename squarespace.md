@@ -46,9 +46,67 @@ Disable Client Log In & Registration = yes
 
 ### Payment Settings
 
-Connect client's Stripe account
-
+Have client connect to their personal Stripe account after inviting them to Squarespace site
 
 * Try to avoid complexity and Squarespace nuances
 
 * Only mess with Site Styles when told to by client
+
+## Settings
+
+Do not mess with Mobile Information Bar
+
+#### Language and Region/Regional Settings
+
+Site Availability/Password Protected; when the site is ready, upgrade to publish
+
+Do not touch Member Areas
+
+Measurement Standard = Imperial
+
+Country = United States
+
+State = Idaho
+
+Time Zone = Boise (Mountain Standard Time) [-7:00]
+
+### Business Information
+
+Insert all the information the client's business is asked for
+
+### Social links
+
+Connect the client's business' Facebook, Instagram, and mail (if applicable)
+
+### Connected Accounts
+
+Connect client's business' Facebook and Instagram (if applicable)\
+
+### Extensions
+
+Shipping/Aftership (if applicable)
+
+Sales and Marketing/Email Campaigns (if applicable)
+
+### Permissions
+
+Invite client as a contributor when the site is ready.
+
+### Domains
+
+Select "Use a domain I own" and insert it in text box
+
+Hook the client's business up with Google Workspace
+
+### Cookies and Visitor Data
+
+Enable Cookie Banner only when client tells you to
+
+Never disable it
+
+### Blogging
+
+Post URL Format = blog
+
+Disqus Shortname = Insert shortname
+

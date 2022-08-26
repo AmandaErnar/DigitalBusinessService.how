@@ -19,15 +19,21 @@ Create email address with company's domain
 
 Obtain extra media from business
 
-- 2 pics for Google/Apple Business
+- 1 pic of business exterior (if applicable)
 
-- 6 pics for website
+- 1 pic of business interior (if applicable) 
 
-- Products pics
+- 1 pic of business in action
+
+- 4 more pics for website
+
+- Products pics (if applicable)
 
 ## Build Website on Squarespace
 
 Select template with regards to the client's business
+
+Set the site's [settings](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/squarespace.md)
 
 Add the client's business' "why?"
 

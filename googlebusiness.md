@@ -1,32 +1,38 @@
 Invite client as manager of business
 
-## Info
+## Business Information
 
-Insert name of the client's business
+### Business Category
 
-Add >=5 tags based off of what the client's business offers
+The primary category has to be directly related to the content of the website and the title of the business
 
-Insert the business' address
+Stuff as many category and keywords as possible for SEO
 
-Service Areas/add all of the towns in Teton Valley + Jackson
+### Description
 
-Insert client's business' hours of availability
+Keep its sentences long and fat with essential keywords related to the business categories
 
-Insert client's business' phone number
+Do not touch the Opening date
 
-Insert client's business' registered domain
+Insert the contact information of the business (phone number, website)
 
-Services/Add the products and services that the client's business offers, and more related topics
+### Location and areas
 
-From the business/Accessibility/Wheelchair accessible parking lots
+Insert the business' location
 
-From the business/Service options/No online classes/Onsite services
+Include zip code, state, and county name in each service area provided (add at least 3 for counties, etc.)
 
-Write and add service description
+Insert the business' open hours, holiday hours etc.
 
-## Photos
+## Services
 
-Insert a cover photo of client's service being preformed
+Add services under the selected categories that are directly associated with them and the purpose of the business
+
+Add at least 1 service under each category
+
+Describe services with lots of keywords
+
+## Photo
 
 Insert a logo of client's business
 
@@ -34,4 +40,11 @@ Insert a photo of the interior of client's business
 
 Insert a photo of the exterior of client's business
 
+## Logo 
+
+[Create a logo](https://www.squarespace.com/logo) and [convert it to a favicon](https://favicon.io/favicon-converter/)
+
+## Cover photo
+
+Make the cover photo something memorable, likely to connect with the targeted audience
 

@@ -1,5 +1,3 @@
-Help businesses build a presence online
-
 ## Establish
 
 Buy domain on [Google Domains](domains.google.com) and transfer to own account
@@ -14,55 +12,56 @@ Go through all of the Google Business settings
 
 Set an [Apple Business](register.apple.com/login?returnTo=/business/ui) profile
 
-Create email address with company's domain
-<!--team@example.com-->
+[Create team@domain.com email address using the company's domain](DigitalBusinessService.how/blob/main/domain.md)
 
 Obtain extra media from business
 
-- 1 pic of business exterior (if applicable)
+Obtain 1 picture of business exterior (if applicable)
 
-- 1 pic of business interior (if applicable) 
+Obtain 1 picture of business interior (if applicable) 
 
-- 1 pic of business in action
+Obtain 1 picture of business in action
 
-- 4 more pics for website
-
-- Products pics (if applicable)
+Obtain pictures of their products (if applicable)
 
 ## Build Website on Squarespace
 
-Select template with regards to the client's business
+Map the user's attention flow with a sketch that leads to them buying the product
+
+Think through the order of added elements
+
+Keep written details specific
+
+Remove redundant information
+
+Select a template with regards to the client's needs
 
 Set the site's [settings](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/squarespace.md)
 
-Add the client's business' "why?"
+Include client's "why?" in the website 
 
-Add media and info to site
+Add in the meat of the website with regards to the initial sketch (meat as in elements, sections, etc.)
 
-Add a map for the client's business' location (if applicable)
-
-Add a newsletter (if applicable)
-
-List client's business' services and pricing (if applicable)
-
-Add products (if applicable) and configure client's inventory
-
-Connect client's Instagram to site (if applicable)
+Add the client's products and/or services, configure client's inventory
 
 Connect client's Stripe account to site (if applicable)
 
 Go through all of Squarespace's settings
 
-Purchase the Squarespace site
-
 ## Give product to client
 
-Invite client as an editor for Google Business, Squarespace
+Invite client as an administrator for Squarespace
 
-Receipt
+Invite client as an editor for Google My Business
 
-- website URL
+Complete client's given todos
 
-- Google Business URL
+Have client review site as many times
 
 [Invoice](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/invoice.md)
+
+Have client pay via Stripe(?)
+
+Purchase the website
+
+Publish the website

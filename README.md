@@ -2,19 +2,17 @@
 
 Buy domain on [Google Domains](domains.google.com) and transfer to own account
 
-Set a [Google Business](business.google.com) profile or transfer an existing profile to own account
-
-- set keywords and tags for SEO
-
-- list brand's services and properties
+Set a [Google Business](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/GoogleBusiness.md) profile or transfer an existing profile to own account
 
 Go through all of the Google Business settings
 
+Fill everything out completely
+
 Set an [Apple Business](register.apple.com/login?returnTo=/business/ui) profile
 
-[Create team@domain.com email address using the company's domain](DigitalBusinessService.how/blob/main/domain.md)
+[Create team@domain.com email address using the company's domain](https://support.google.com/domains/answer/3251241?hl=en#emailForwarding)
 
-Obtain extra media from business
+## Obtain media
 
 Obtain 1 picture of business exterior (if applicable)
 
@@ -26,7 +24,7 @@ Obtain pictures of their products (if applicable)
 
 ## Build Website on Squarespace
 
-Map the user's attention flow with a sketch that leads to them buying the product
+Map the user's attention flow with a well-organized sketch
 
 Think through the order of added elements
 
@@ -38,9 +36,9 @@ Select a template with regards to the client's needs
 
 Set the site's [settings](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/squarespace.md)
 
-Include client's "why?" in the website 
+Include client's "why my business?" in the website 
 
-Add in the meat of the website with regards to the initial sketch (meat as in elements, sections, etc.)
+Add in the meat of the website with regards to the initial sketch
 
 Add the client's products and/or services, configure client's inventory
 

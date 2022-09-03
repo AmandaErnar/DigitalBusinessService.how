@@ -1,12 +1,10 @@
-Invite client as manager of business
-
 ## Business Information
 
 ### Business Category
 
 The primary category has to be directly related to the content of the website and the title of the business
 
-Stuff as many category and keywords as possible for SEO
+Stuff as many categories and keywords as possible 
 
 ### Description
 
@@ -14,7 +12,7 @@ Keep its sentences long and fat with essential keywords related to the business 
 
 Do not touch the Opening date
 
-Insert the contact information of the business (phone number, website)
+Insert the phone number and website of the business
 
 ### Location and areas
 
@@ -26,7 +24,7 @@ Insert the business' open hours, holiday hours etc.
 
 ## Services
 
-Add services under the selected categories that are directly associated with them and the purpose of the business
+Add services under the selected categories that are directly associated with the selected categories and the purpose of the business
 
 Add at least 1 service under each category
 

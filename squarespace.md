@@ -1,22 +1,48 @@
-## Pages
+## Setup
 
-Move all not linked pages to the main navigation
+Remove/add pages as needed
+
+Remove/add products as needed
+
+Name the site's homepage 'Home'
+
+## Editor
+
+Add one grid row between every element
 
 ## Design
 
 Browser Icon/Add business logo
 
-Checkout Page/Make the page match the current template
+Keep the default checkout page
 
-404 Page/Direct user to Home
+Keep the default 404 page
 
-Social Sharing/Add a picture of business
+Social Sharing/Add the logo of the client's business
 
 ## Commerce
 
-Add products for sale if client sells products
+Add products for sale if the client sells products
 
-Connect client's Stripe account to site
+Have the client connect their Stripe account after they gain administrator access to the site
+
+Enable Express Checkout if client sells one service
+
+Add an Add to Cart button to the product when the client sells only one service
+
+## Marketing
+
+### Email Campaigns
+
+Create a simple emailing template upon the client's request
+
+### SEO
+
+Add a one-sentence SEO description rich in keywords
+
+### URL Builder
+
+Add a URL for ads 
 
 ## Scheduling
 
@@ -46,19 +72,17 @@ Disable Client Log In & Registration = yes
 
 ### Payment Settings
 
-Have client connect to their personal Stripe account after inviting them to Squarespace site
+Have the client connect their personal Stripe account to the site after inviting them to the site as an administrator
 
-* Try to avoid complexity and Squarespace nuances
+Try to avoid complexity and Squarespace nuances
 
-* Only mess with Site Styles when told to by client
+Only mess with Site Styles upon the client's request
 
 ## Settings
 
 Do not mess with Mobile Information Bar
 
 #### Language and Region/Regional Settings
-
-Site Availability/Password Protected; when the site is ready, upgrade to publish
 
 Do not touch Member Areas
 
@@ -76,11 +100,11 @@ Insert all the information the client's business is asked for
 
 ### Social links
 
-Connect the client's business' Facebook, Instagram, and mail (if applicable)
+Connect the client's business' Facebook, Instagram, and email address (if applicable)
 
 ### Connected Accounts
 
-Connect client's business' Facebook and Instagram (if applicable)\
+Connect client's business' Facebook and Instagram (if applicable)
 
 ### Extensions
 
@@ -90,19 +114,17 @@ Sales and Marketing/Email Campaigns (if applicable)
 
 ### Permissions
 
-Invite client as a contributor when the site is ready.
+Invite the client as a contributor when the site is ready
 
 ### Domains
 
-Select "Use a domain I own" and insert it in text box
-
-Hook the client's business up with Google Workspace
+Select "Use a domain I own" and insert the domain into the text box
 
 ### Cookies and Visitor Data
 
-Enable Cookie Banner only when client tells you to
+Enable Cookie Banner only upon the client's request
 
-Never disable it
+Never disable Cookies and Visitor Data
 
 ### Blogging
 

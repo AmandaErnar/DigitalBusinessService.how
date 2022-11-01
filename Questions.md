@@ -8,8 +8,6 @@ How would you like a client to contact you through this site?
 
 What is some basic information you would like to put on this site?
 
-What is the overall ambiance you want this site to be in?
-
 Do you have any color schemes in mind?
 
 Do you have any fonts in mind?

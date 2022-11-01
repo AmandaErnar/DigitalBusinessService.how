@@ -8,8 +8,6 @@ Go through all of the Google Business settings
 
 Fill everything out completely
 
-Set an [Apple Business](register.apple.com/login?returnTo=/business/ui) profile
-
 [Create team@domain.com email address using the company's domain](https://support.google.com/domains/answer/3251241?hl=en#emailForwarding)
 
 ## Obtain media

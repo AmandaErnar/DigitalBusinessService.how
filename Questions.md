@@ -1,5 +1,31 @@
-What type of porduct do you offer?
+What would you like to achieve through this website?
 
-Why would people choose your product?
+What is your business' name?
 
-Do you want a store on your website?
+What sets your business apart from others?
+
+How would you like a client to contact you through this site?
+
+What is some basic information you would like to put on this site?
+
+What is the overall ambiance you want this site to be in?
+
+Do you have any color schemes in mind?
+
+Do you have any fonts in mind?
+
+Would you like me to create a separate page for contact information?
+
+Would you like me to create a separate page for your product?
+
+How many pages do you want this site to contain?
+
+Do you have any pictures of yourself at work?
+
+What should I add in the "about" section?
+
+What is your email address?
+
+What is your phone number?
+
+How would you like to keep in touch with me?

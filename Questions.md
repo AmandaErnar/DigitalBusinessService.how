@@ -4,6 +4,8 @@ What is your business' name?
 
 What sets your business apart from others?
 
+What name do you want for your domain?
+
 How would you like a client to contact you through this site?
 
 What is some basic information you would like to put on this site?

@@ -8,33 +8,25 @@ Go through all of the Google Business settings
 
 Fill everything out completely
 
-[Create team@domain.com email address using the company's domain](https://support.google.com/domains/answer/3251241?hl=en#emailForwarding)
+Tell client to obtain customer reviews
 
 ## Obtain media
 
-Obtain 1 picture of business exterior (if applicable)
-
-Obtain 1 picture of business interior (if applicable) 
-
-Obtain 1 picture of business in action
+Obtain pictures of business in action
 
 Obtain pictures of their products (if applicable)
 
-## Build Website on Squarespace
+## Website
+
+Invite client as an administrator for Squarespace
 
 Map the user's attention flow with a well-organized sketch
 
 Think through the order of added elements
 
-Keep written details specific
-
-Remove redundant information
-
-Select a template with regards to the client's needs
+Keep written elements simple and brief
 
 Set the site's [settings](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/squarespace.md)
-
-Include client's "why my business?" in the website 
 
 Add in the meat of the website with regards to the initial sketch
 
@@ -42,11 +34,15 @@ Add the client's products and/or services, configure client's inventory
 
 Connect client's Stripe account to site (if applicable)
 
-Go through all of Squarespace's settings
+## Logo
 
-## Give product to client
+Think of a symbol most important to the client's business
 
-Invite client as an administrator for Squarespace
+Use Procreate for all graphics
+
+Add text with regards to the client's request
+
+## Deliver
 
 Invite client as an editor for Google My Business
 

@@ -1,4 +1,4 @@
-## Setup
+## Prep
 
 Remove/add pages as needed
 
@@ -22,9 +22,9 @@ Social Sharing/Add the logo of the client's business
 
 ## Commerce
 
-Add products for sale if the client sells products
+Add products for sale if client sells products
 
-Have the client connect their Stripe account after they gain administrator access to the site
+Have client connect their Stripe account after they gain administrator access to the site
 
 Enable Express Checkout if client sells one service
 
@@ -56,19 +56,7 @@ Business Name = %business name%
 
 Business Industry = %business industry%
 
-Scheduling Instructions = Select an option below.
-
-Week Starts On = Monday
-
 Time zone = (GMT-6:00) Mountain Time
-
-#### Scheduling Page Options
-
-Show "Schedule another Appointment" button = yes
-
-Require Phone Number = yes
-
-Disable Client Log In & Registration = yes
 
 ### Payment Settings
 
@@ -80,11 +68,7 @@ Only mess with Site Styles upon the client's request
 
 ## Settings
 
-Do not mess with Mobile Information Bar
-
 #### Language and Region/Regional Settings
-
-Do not touch Member Areas
 
 Measurement Standard = Imperial
 
@@ -102,10 +86,6 @@ Insert all the information the client's business is asked for
 
 Connect the client's business' Facebook, Instagram, and email address (if applicable)
 
-### Connected Accounts
-
-Connect client's business' Facebook and Instagram (if applicable)
-
 ### Extensions
 
 Shipping/Aftership (if applicable)
@@ -119,12 +99,6 @@ Invite the client as a contributor when the site is ready
 ### Domains
 
 Select "Use a domain I own" and insert the domain into the text box
-
-### Cookies and Visitor Data
-
-Enable Cookie Banner only upon the client's request
-
-Never disable Cookies and Visitor Data
 
 ### Blogging
 

@@ -14,10 +14,6 @@ Add one grid row between every element
 
 Browser Icon/Add business logo
 
-Keep the default checkout page
-
-Keep the default 404 page
-
 Social Sharing/Add the logo of the client's business
 
 ## Commerce

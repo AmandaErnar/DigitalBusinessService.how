@@ -26,7 +26,7 @@ Think through the order of added elements
 
 Keep written elements simple and brief
 
-Set the site's [settings](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/squarespace.md)
+Set the site's [settings](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/Squarespace.md)
 
 Add in the meat of the website with regards to the initial sketch
 
@@ -52,7 +52,7 @@ Have client review site as many times
 
 [Invoice](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/invoice.md)
 
-Have client pay via Stripe(?)
+Use [Markdown to PDF](https://www.markdowntodpdf.org/) to create invoice
 
 Purchase the website
 

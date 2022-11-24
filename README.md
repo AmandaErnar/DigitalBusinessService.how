@@ -1,59 +1,52 @@
 ## Establish
 
-Buy domain on [Google Domains](domains.google.com) and transfer to own account
+Buy domain
 
-Set a [Google Business](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/GoogleBusiness.md) profile or transfer an existing profile to own account
+Obtain Google Business Profile and go through all settings
 
-Go through all of the Google Business settings
+Schedule meetup for plans regarding service
 
-Fill everything out completely
+## Media
 
-Tell client to obtain customer reviews
+Get product photos
 
-## Obtain media
+Get 1 photo of business in action
 
-Obtain pictures of business in action
-
-Obtain pictures of their products (if applicable)
+Get 3 photos of business location
 
 ## Website
 
-Invite client as an administrator for Squarespace
+Use Squarespace
 
-Map the user's attention flow with a well-organized sketch
+Pick theme
 
-Think through the order of added elements
+Go through all settings
 
-Keep written elements simple and brief
+Sketch website interface
 
-Set the site's [settings](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/Squarespace.md)
+Fill in the meat of the website
 
-Add in the meat of the website with regards to the initial sketch
-
-Add the client's products and/or services, configure client's inventory
-
-Connect client's Stripe account to site (if applicable)
+Connect a Stripe account
 
 ## Logo
 
-Think of a symbol most important to the client's business
+Use Procreate
 
-Use Procreate for all graphics
+Sketch
 
-Add text with regards to the client's request
+Create with as little layers as possible
 
 ## Deliver
 
-Invite client as an editor for Google My Business
+Invite client as editor for all platforms used
 
-Complete client's given todos
+Remove self as editor for Google Business Profile
 
-Have client review site as many times
+Schedule meetup and complete client's given todos
 
-[Invoice](https://github.com/AmandaErnar/DigitalBusinessService.how/blob/main/invoice.md)
+Give client invoice
 
-Use [Markdown to PDF](https://www.markdowntodpdf.org/) to create invoice
+Buy and publish website
 
-Purchase the website
+Tell client to obtain customer reviews
 
-Publish the website

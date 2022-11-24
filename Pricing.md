@@ -4,9 +4,9 @@ Squarespace site price for 1 year - $192
 
 # Variables
 
-Time spent on Google Business - $50/hour
+Time spent on Google Business - $20/hour
 
-Time spent on Squarespace - $50/hour
+Time spent on Squarespace - $20/hour
 
-Time spent on gathering media - $50/hour
+Time spent on gathering media - $10/hour
 

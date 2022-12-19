@@ -8,8 +8,7 @@ Client's Address
 | :--- | :----: | :----: | ---: |
 | Squarespace subscription for 1 year | 1 | $192.00 | $192.00 |
 | Domain for 1 year | 1 | $12.99 | $12.99 |
-| Time spent on website | 1 | $20.00 | $20.00 |
-| Time spent gathering media | 0 | $10.00 | 0 |
+| Time spent | 10 | $20.00 | $200.00 |
 
 Subtotal:
 Grand total:

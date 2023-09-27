@@ -1,5 +1,3 @@
-# DOOR KNOCKING: plase do it
-
 ## Establish
 
 Buy domain
